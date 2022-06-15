@@ -6,7 +6,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="[https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://www.linkedin.com/in/luis-henrique-jung-1b0614119/)" />][linkedin]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://www.youtube.com/channel/UChTInKwqdh6nrk85Gemivjg)" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://www.youtube.com/channel/UChTInKwqdh6nrk85Gemivjg)" />][youtube]
 
 
 
